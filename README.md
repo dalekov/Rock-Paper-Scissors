@@ -36,5 +36,5 @@ To run the game locally:
   ```bash
   python rock_paper_scissors.py
 
-## Enjoy the Game! 🎉
+**## Enjoy the Game! 🎉**
 
