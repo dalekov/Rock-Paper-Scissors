@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors Game 🪨📄✂️
 
-Welcome to the **Rock, Paper, Scissors Simulator**! 🎉 This simple yet fun terminal-based game allows you to battle against the CPU in the classic game of Rock, Paper, Scissors. Ready to take on the challenge and protect your lives? Let's get started!
+Welcome to the **Rock, Paper, Scissors Simulator**! 🎉 This simple yet fun terminal-based game allows you to battle against the CPU in the classic game of Rock, Paper, Scissors. Let's get started!
 
 ## How to Play 🕹️
 
